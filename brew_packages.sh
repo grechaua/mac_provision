@@ -11,6 +11,7 @@ brew install ngrok
 brew install jq
 brew install wget
 brew install ansible
+brew install mtr
 brew install zsh
 brew install zsh-completions
 
@@ -70,5 +71,12 @@ brew cask install clementine
 brew cask install intellij-idea
 brew cask install minecraft
 brew cask install vox
+brew cask install viber
+brew cask install seil
+brew cask install torbrowser
+brew cask install blue-jeans-launcher
+brew cask install blue-jeans-browser-plugin
+brew cask install tunnelblick
 
 history > install_history.txt
+
