@@ -53,8 +53,6 @@ brew cask install gpgtools
 brew cask install adobe-reader
 brew cask install atom
 brew cask install flash-player
-brew cask install flash-player
-brew cask install flash-player
 brew cask install gyazo
 brew cask install macdown
 brew cask install music-manager
