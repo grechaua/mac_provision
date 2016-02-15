@@ -1,0 +1,5 @@
+option+delete : send hex codes: 0x17
+option+up     : send hex codes: 0x01
+option+down   : send hex codes: 0x05
+option+left   : send esc seq: b
+option+rigth  : send esc seq: f
