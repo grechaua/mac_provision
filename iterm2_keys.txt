@@ -1,5 +1,6 @@
 # https://stackoverflow.com/questions/6205157/iterm2-how-to-get-jump-to-beginning-end-of-line-in-bash-shell
 # http://www.phanderson.com/C/ascii.html
+# http://www.bigsmoke.us/readline/shortcuts
 
 option+delete : send hex codes: 0x17
 option+up     : send hex codes: 0x01
