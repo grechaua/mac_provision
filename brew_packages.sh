@@ -6,6 +6,8 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 
 brew update
 
+brew install homebrew/php/php55
+
 brew install openvpn
 brew install ngrok
 brew install jq
@@ -21,6 +23,7 @@ chsh -s /bin/zsh
 brew install python
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
+brew install mysql
 
 brew tap caskroom/cask
 brew cask install skype
@@ -75,6 +78,13 @@ brew cask install torbrowser
 brew cask install blue-jeans-launcher
 brew cask install blue-jeans-browser-plugin
 brew cask install tunnelblick
+brew cask install rescuetime
+brew cask install spotify
+brew cask install spotify-notifications
+brew cask install focus
+brew cask install tresorit
+brew cask install airdroid
+brew cask install audacity
 
 history > install_history.txt
 
